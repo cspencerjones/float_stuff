@@ -1,0 +1,12 @@
+#
+# *********************
+# Float Namelist
+# *********************
+ &FLT_NML
+ flt_int_traj = 36000.,
+ flt_int_prof = 43200000000.,
+ flt_deltaT=3600,
+ flt_noise    = 0.0,
+ FLT_Iter0=1.,
+# flt_file     = 'float_ECCOtest.bin',
+ &
